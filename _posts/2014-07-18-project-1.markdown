@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-05-25
 img: paintball-game.png
 alt: image-alt
 project-date: January 2021
