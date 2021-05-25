@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2021-05-25
-img: mend.jpg
+img: mend-game.jpg
 alt: mend-game-img
 project-date: April 2021
 client: Digital Precept
