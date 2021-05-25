@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2021-05-25
-img: arScavengerhunt.jpg
+img: arscavengerhunt.png
 alt: ar-scavenger-hunt-game-img
 project-date: May 2021
 client: MeowNetStudios
