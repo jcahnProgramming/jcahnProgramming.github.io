@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2021-05-25
-img: mend.png
+img: mend.jpg
 alt: mend-game-img
 project-date: April 2021
 client: Undisclosed Client
