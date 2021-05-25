@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2021-05-25
-img: paintball.jpeg
+img: paintball.jpg
 alt: paintball-game-img
 project-date: January 2021
 client: XR-Terra XR Bootcamp
