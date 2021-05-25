@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2021-05-25
+img: vrbeanbag.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: March 2021
+client: XR-Terra XR Bootcamp
+category: VR Development
+description: This project is a demonstration of building a Beanbag toss (cornholl game) in VR. This game was created for the Oculus Quest2 Headset but was tested on the HTC Vive Cosmos Elite as well.
 ---
