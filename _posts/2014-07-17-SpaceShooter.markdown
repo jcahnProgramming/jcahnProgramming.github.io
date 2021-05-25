@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2021-05-25
 img: spaceshooter.png
-alt: image-alt
+alt: spaceshooter-game-img
 project-date: January 2021
 client: XR-Terra XR Bootcamp
 category: 2D Games / Mobile Games

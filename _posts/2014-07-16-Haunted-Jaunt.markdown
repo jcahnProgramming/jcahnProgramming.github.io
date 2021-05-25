@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 img: hauntedjaunt.png
-alt: image-alt
+alt: hauntedjaunt-game-img
 project-date: February 2021
 client: XR-Terra XR Bootcamp
 category: 3D Puzzle Game

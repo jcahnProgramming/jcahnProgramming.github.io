@@ -3,7 +3,7 @@ layout: default
 modal-id: 7
 date: 2021-05-25
 img: roguelike.png
-alt: image-alt
+alt: roguelike-game-img
 project-date: June 2021
 client: Self
 category: Game Development
