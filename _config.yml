@@ -1,6 +1,6 @@
 # Site settings
 title: Jamie Cahn
-email: jamie@jamiecahn.com
+email: jamie.cahn93@gmail.com
 url: jcahnprogramming.github.io
 description: "Game Developer - Jamie Cahn - Portfolio"
 keywords: "game, gamedev, game development, game developer, c#, c++, unity, unrealengine, ue4, python, ruby, c, objective-c, swift, ios, android, game dev, video, programming, windows, video game development"
@@ -54,7 +54,7 @@ address:
   - line: Denver, Colorado 80218
 
 # Credits content
-credits: 'None to display'
+credits: 'Template provided through Jekyll'
 
 # Build settings
 markdown: kramdown
