@@ -5,7 +5,7 @@ date: 2021-05-25
 img: mend.jpg
 alt: mend-game-img
 project-date: April 2021
-client: Undisclosed Client
-category: Map Development
-description: This is a 3D holographic map that was created and implemented for an undisclosed project for the company Mend.
+client: Digital Precept
+category: Map Development | VR Development | Shader Development
+description: This is a 3D holographic map that was created and implemented for an undisclosed project for the company Mend. You can view code for the map development here [3D Holographic Map Code](testlink.test)
 ---
