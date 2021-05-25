@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2021-05-25
-img: deadearth.png
+img: deadearth.jpg
 alt: deadearth-game-img
 project-date: May 2021
 client: MeowNetStudios

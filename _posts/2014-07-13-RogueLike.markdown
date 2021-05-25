@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2021-05-25
-img: roguelike.png
+img: roguelike.jpg
 alt: roguelike-game-img
 project-date: June 2021
 client: Self
